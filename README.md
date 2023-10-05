@@ -10,6 +10,7 @@ to withdraw money,deposit.
 #### UseCase Diagram:
 ![image](https://github.com/Prajeeth17/LAB-1-ATM/assets/120513885/3e79ff84-b70b-47ca-86ba-11de3ecfe35e)
 #### Sequence Diagram:
+![image](https://github.com/Prajeeth17/LAB-1-ATM/assets/120513885/84c702a2-e8cd-4992-8417-a8d3b082b381)
 
 #### Class Diagram:
 ![image](https://github.com/Prajeeth17/LAB-1-ATM/assets/120513885/26aeb8dd-dbb0-46d8-a7a9-40e3f4d4c295)
