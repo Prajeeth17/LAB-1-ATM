@@ -20,11 +20,13 @@ to withdraw money,deposit.
 ![image](https://github.com/Prajeeth17/LAB-1-ATM/assets/120513885/3143d194-507b-40b8-8119-8fd9b7f317d4)
 
 #### Activity Diagram:
+![acti](https://github.com/Prajeeth17/LAB-1-ATM/assets/120513885/95240058-b73c-4db2-91ff-6e69d1d0610b)
 
 #### Communication Diagram:
 ![image](https://github.com/Prajeeth17/LAB-1-ATM/assets/120513885/c20b01ee-d820-42f4-a881-9e5c8add72a6)
 
 #### Package Diagram:
+![pack](https://github.com/Prajeeth17/LAB-1-ATM/assets/120513885/a797156a-4ab4-4ebe-a326-714d7c22324c)
 
 ### RESULT: 
 Thus the Atm and banking System project was executed and the output was verified.
